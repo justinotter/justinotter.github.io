@@ -92,10 +92,10 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
+lang: en-US # Set the site language
 title: "Justin Otter" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Justin Otter's personal website" # Site description and default description, also used in jekyll-seo-tag
+description: "Email: jotter2[at]jhu.edu" # Site description and default description, also used in jekyll-seo-tag
 url: "https://justinotter.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/justinotter/justinotter.github.io"
