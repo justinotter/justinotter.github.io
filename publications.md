@@ -1,3 +1,7 @@
+---
+layout: categories
+---
+
 ## My publications
 
 Total: 6 refereed papers, 2 first-author papers
