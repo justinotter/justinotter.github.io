@@ -1,3 +1,5 @@
+## My publications
+
 Total: 6 refereed papers, 2 first-author papers
 A complete list of my work on ADS is available [here.](https://ui.adsabs.harvard.edu/search/q=author%3A%22Otter%2C%20Justin%22&sort=date%20desc%2C%20bibcode%20desc&p_=0, "here.")
 ORCID: [0000-0003-3191-9039](https://orcid.org/0000-0003-3191-9039, "0000-0003-3191-9039")
