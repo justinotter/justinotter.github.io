@@ -1,4 +1,7 @@
-
+---
+layout: page
+aside: true
+---
 
 #### My CV
 
