@@ -130,8 +130,6 @@ navigation_header:
   url: /publications/
 - title: CV
   url: /cv/
-- title: Contact Me
-  url: /contact/
 
 #navigation_footer:
 #- title: Created by David Darnes
