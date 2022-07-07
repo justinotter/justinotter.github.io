@@ -10,4 +10,4 @@ Welcome to my personal website!
 
 My name is Justin (he/him pronouns) and I'm a 3rd year graduate student in the Physics and Astronomy department at Johns Hopkins University. I study galaxy quenching with advisors Drs. Kate Rowlands and Katey Alatalo. 
 
-[me](/assets/profpic.jpeg)
+{% include /assets/projpic.jpeg %}
