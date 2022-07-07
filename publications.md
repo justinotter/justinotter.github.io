@@ -1,5 +1,6 @@
 ---
-layout: categories
+layout: page
+aside: true
 ---
 
 ### My publications
