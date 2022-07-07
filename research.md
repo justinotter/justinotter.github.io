@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Research
 feature_text: Primary interests: galaxy quenching, post-starburst galaxies, mm astronomy
 feature_image: "https://picsum.photos/2560/600?image=873"
@@ -15,17 +14,20 @@ It turns out that PSBs typically have significant molecular gas reservoirs, but 
 
 We have been studying 13 nearby PSBs in the MaNGA survey (an optical integral field spectroscopy survey) with matched-resolution CO(1-0) ALMA observations to try to figure out what the gas is doing in these galaxies and what it might tell us about the quenching mechanisms shutting down star-formation in PSBs.
 
-{% include figure.html image="https://justinotter.github.io/assets/overview_spec_mom0.png" position="left" width="400" height="800" %}
+{% include figure.html image="https://justinotter.github.io/assets/overview_spec_mom0.png" position="left" caption="Our integrated CO spectra and CO contours overlaid on the optical image. The molecular gas is compact!" width="1000" height="2000" %}
 
-{% include figure.html image="https://justinotter.github.io/assets/overview_vmaps.png" position="right" width="400" height="800" %}
+{% include figure.html image="https://justinotter.github.io/assets/overview_vmaps.png" position="left" caption="The CO, stellar, and Halpha velocity maps. The gas is highly disturbed!" width="1000" height="2000" %}
 
+Overall, we have found that the compactness of the molecular gas and lack of coherent rotation show these galaxies are highly disturbed. For PSBs quenching globally or in their centers, a major merger could disturb the gas and drive it inwards, leaving a compact reservoir of gas stabilized against star-formation.
+For PSBs quenching on the outskirts, the picture is less clear but a minor interaction, stellar bar, or gas stripping could contribute to quenching.
 
+For more information, check out [my poster from AAS 240,](https://nam02.safelinks.protection.outlook.com/?url=http%3A%2F%2Faas240-aas.ipostersessions.com%2FDefault.aspx%3Fs%3DAC-B6-F8-7B-C4-EA-AB-CD-F6-77-7E-08-66-B3-46-13&data=05%7C01%7Cjotter2%40jhu.edu%7C8321d2bea82b4eac0a1c08da43cb96df%7C9fa4f438b1e6473b803f86f8aedf0dec%7C0%7C0%7C637896838928279538%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Lb051sUTGFyvBHOMX9hCsxP0ZsFu2Hnn%2FRfJqpdQnYM%3D&reserved=0, "my poster from AAS 240,") and look out for a publication soon.
 
 
 
 ### Previous work
 
-#### Protoplanetary disks in the Orion Nebula Cluster (ONC)
+##### Protoplanetary disks in the Orion Nebula Cluster (ONC)
 
 
-#### Galactic conformity in morphology
+##### Galactic conformity in morphology
