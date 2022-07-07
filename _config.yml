@@ -95,8 +95,10 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Justin Otter" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo@1024.png" # Site logo, also used in jekyll-seo-tag
-description: "<p> Email: jotter2[at]jhu.edu <p>
-              <p> Work address: 3400 N. Charles St, Baltimore, MD 21218 USA <p>" # Site description and default description, also used in jekyll-seo-tag
+description: "<pre> 
+                Email: jotter2[at]jhu.edu
+                Work address: 3400 N. Charles St, Baltimore, MD 21218 USA
+              </pre>" # Site description and default description, also used in jekyll-seo-tag
 url: "https://justinotter.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/justinotter/justinotter.github.io"
@@ -122,7 +124,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
+- title: About me
   url: /
 - title: Research
   url: /research/
