@@ -94,9 +94,9 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Justin Otter" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Email: jotter2[at]jhu.edu <br>
-              Work address: 3400 N. Charles St, Baltimore, MD 21218 USA" # Site description and default description, also used in jekyll-seo-tag
+logo: "/assets/logos/logo@1024.png" # Site logo, also used in jekyll-seo-tag
+description: "<p> Email: jotter2[at]jhu.edu <p>
+              <p> Work address: 3400 N. Charles St, Baltimore, MD 21218 USA <p>" # Site description and default description, also used in jekyll-seo-tag
 url: "https://justinotter.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/justinotter/justinotter.github.io"
