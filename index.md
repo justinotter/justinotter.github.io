@@ -1,7 +1,7 @@
 ---
 feature_text: |
   ## Justin Atsushi Otter
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
 layout: page
 aside: true
 ---
