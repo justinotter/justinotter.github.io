@@ -1,9 +1,9 @@
 ---
+layout: post
 title: Galactic conformity in morphology
 categories:
 - Galaxies
 - Previous work
-feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
 ### Galactic conformity in morphology
