@@ -1,0 +1,14 @@
+---
+title: Protoplanetary Disks in Orion
+categories:
+- ALMA
+- Protoplanetary Disks
+- Previous work
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
+
+### Protoplanetary disks in the Orion Nebula Cluster (ONC)
+As an REU student I worked with Adam Ginsburg studying protoplanetary disks in the ONC with ALMA. We cataloged 127 disks, including 15 newly detected sources. We split our sample into the foreground ONC disks that are exposed to the radiation from the bright Trapezium stars (IR-detected), and the heavily enshrouded OMC-1 disks that are shielded from this radiation (IR non-detected). We find the disks in both samples are smaller than disks in less dense star-forming regions, indicating that environmental processes in both environments (photoionization for the ONC disks, and dynamical interactions for the OMC-1 disks) are effective at truncating the disks.
+
+For more information, check out the publication: [Otter et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..221O/abstract "Otter et al. (2021)")
+
