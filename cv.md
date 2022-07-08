@@ -4,7 +4,7 @@ layout: page
 aside: true
 ---
 
-#### My CV
+### My CV
 
 [Direct link]({{ site.url }}/JustinOtter_CV.pdf "Direct link")
 
