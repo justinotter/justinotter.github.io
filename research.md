@@ -4,6 +4,7 @@ feature_text: Primary interests: galaxy quenching, post-starburst galaxies, mm a
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "galaxy quenching, post-starburst galaxies, mm astronomy"
 aside: true
+layout: page
 ---
 
 ## Molecular gas properties of post-starburst galaxies
