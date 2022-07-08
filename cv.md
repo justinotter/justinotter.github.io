@@ -1,4 +1,5 @@
 ---
+title: "My CV"
 layout: page
 aside: true
 ---
