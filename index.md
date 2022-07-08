@@ -1,7 +1,7 @@
 ---
 feature_text: |
   ## Justin Atsushi Otter
-feature_image: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+feature_image: "https://hubblesite.org/files/live/sites/hubble/files/home/resource-gallery/articles/_images/STSCI-H-p1427a-2300x2100.jpg"
 layout: page
 aside: true
 ---
