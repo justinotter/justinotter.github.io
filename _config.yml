@@ -66,8 +66,6 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "My research work" # The post list page content
-    feature_text: |
-      Short summaries of my work
     feature_image: "https://apod.nasa.gov/apod/image/1506/m101_HubbleSubaru_4000.jpg"
 
 # 6. Jekyll collections settings
