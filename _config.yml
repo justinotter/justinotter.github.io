@@ -35,9 +35,9 @@ plugins:
 - jemoji
 
 # 3. Gem settings
-paginate: 5 # jekyll-paginate > items per page
-paginate_path: research/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+# paginate: 5 # jekyll-paginate > items per page
+# paginate_path: research/page:num # jekyll-paginate > blog page
+# jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 # twitter:
 #  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
 # author: DavidDarnes # jekyll-seo-tag > default author
