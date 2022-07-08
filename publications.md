@@ -1,6 +1,7 @@
 ---
 layout: page
 aside: true
+title: My Publications
 ---
 
 ### My publications
