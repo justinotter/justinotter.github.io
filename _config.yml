@@ -103,8 +103,8 @@ repo: "https://github.com/justinotter/justinotter.github.io"
 email: "jotter2[at]jhu.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%d-%B-%Y-" # Blog post date formatting using placeholder formatting
-# google_analytics: ""
-# google_analytics_anonymize_ip: ""
+google_analytics: "G-JF2PZ408KG"
+# google_analytics_anonymize_ip: "true"
 # service_worker: false # Will turn off the service worker if set to false
 # short_name: "Al" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
