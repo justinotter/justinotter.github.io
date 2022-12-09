@@ -12,4 +12,4 @@ My name is Justin (he/him) and I'm a 3rd year graduate student in the Physics an
 
 {% include figure.html image="https://justinotter.github.io/assets/profpic.jpeg" position="left" width="300" height="300" %}
 
-Last updated Nov 2022
+Last updated Dec 2022
